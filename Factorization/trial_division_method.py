@@ -1,6 +1,7 @@
 import math
 
 
+# метод пробных делений
 def trial_division(x):
 	y = 2
 	while y <= math.sqrt(x):
